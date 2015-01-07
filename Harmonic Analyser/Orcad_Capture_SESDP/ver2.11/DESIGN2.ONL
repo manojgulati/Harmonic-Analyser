@@ -1,11 +1,11 @@
 (PCB DESIGN2
  (description
-  (timeStamp "2014 11 24 09 02 43")
+  (timeStamp "2015 01 07 17 40 23")
   (program "CAPTURE.EXE" (Version "10.5.0.b001 CIS"))
   (source "Original data from OrCAD/CAPTURE schematic")
   (title "ADE7880 Evaulation Board (Designed by Manoj G.)")
-  (date "Monday, November 24, 2014")
-  (document "C:\\USERS\\MANOJG\\DROPBOX\\SESDP\\PROJECT\\ORCAD_CAPTURE_SESDP\\VER2.10\\DESIGN2.DSN")
+  (date "Wednesday, January 07, 2015")
+  (document "C:\\USERS\\MANOJG\\DOCUMENTS\\GITHUB\\HARMONIC-ANALYSER\\HARMONIC ANALYSER\\ORCAD_CAPTURE_SESDP\\VER2.11\\DESIGN2.DSN")
   (revision "<1.0>")
   (organization "")
   (address1 "")
@@ -79,26 +79,19 @@
      (Value 22pF)))
    (place C81
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 0004C623)
-     ("Source Package" "CAP NP")
-     (Value 0.1uF)))
-   (place C50
-    (property 
-     (timestamp 000624D7)
-     ("Source Package" "CAP NP")
-     (Value 0.1uF)))
-   (place C51
-    (property 
-     (timestamp 000624EB)
      ("Source Package" "CAP NP")
      (Value 0.1uF)))
    (place C83
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 0004C6A5)
      ("Source Package" "CAP NP")
      (Value 4.7uF)))
    (place C110
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 002A1A8E)
      ("Source Package" "CAP NP")
      (Value 20nF)))
@@ -110,6 +103,7 @@
      (Value 100nF)))
    (place C85
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00098324)
      ("Source Package" "CAP NP")
      (Value 10uF)))
@@ -137,16 +131,19 @@
      (Value 220pF)))
    (place C87
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 0028ABD3)
      ("Source Package" "CAP NP")
      (Value 20nF)))
    (place C55
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00044433)
      ("Source Package" "CAP NP")
      (Value 220pF)))
    (place C56
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00044443)
      ("Source Package" "CAP NP")
      (Value 220pF)))
@@ -197,6 +194,7 @@
      (Value 2.2uF/16V)))
    (place C93
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 002911C8)
      ("Source Package" "CAP NP")
      (Value 20nF)))
@@ -213,6 +211,7 @@
      (Value 20PF)))
    (place C94
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 0029126C)
      ("Source Package" "CAP NP")
      (Value 20nF)))
@@ -224,6 +223,7 @@
      (Value 0.1)))
    (place C64
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00047FE0)
      ("Source Package" "CAP NP")
      (Value 220pF)))
@@ -235,6 +235,7 @@
      (Value 22uF)))
    (place C65
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00047FF0)
      ("Source Package" "CAP NP")
      (Value 220pF)))
@@ -246,36 +247,43 @@
      (Value 100nF)))
    (place C66
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00048000)
      ("Source Package" "CAP NP")
      (Value 220pF)))
    (place C67
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00048010)
      ("Source Package" "CAP NP")
      (Value 220pF)))
    (place C68
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 0005F6D7)
      ("Source Package" "CAP NP")
      (Value 20nF)))
    (place C69
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00042C7E)
      ("Source Package" "CAP NP")
      (Value 220pF)))
    (place C70
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00042C8E)
      ("Source Package" "CAP NP")
      (Value 220pF)))
    (place C71
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00042C9E)
      ("Source Package" "CAP NP")
      (Value 220pF)))
    (place C72
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00042CAE)
      ("Source Package" "CAP NP")
      (Value 220pF)))
@@ -287,16 +295,13 @@
      (Value 100nF)))
    (place C73
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 0004D81E)
-     ("Source Package" "CAP NP")
-     (Value 0.1uF)))
-   (place C42
-    (property 
-     (timestamp 00062411)
      ("Source Package" "CAP NP")
      (Value 0.1uF)))
    (place C74
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 0004D82E)
      ("Source Package" "CAP NP")
      (Value 10uF)))
@@ -308,14 +313,10 @@
      (Value 100nF)))
    (place C75
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 0004FF99)
      ("Source Package" "CAP NP")
      (Value 0.22uF)))
-   (place C43
-    (property 
-     (timestamp 00062453)
-     ("Source Package" "CAP NP")
-     (Value 0.1uF)))
    (place C103
     (property 
      ("PCB Footprint" 0603)
@@ -324,14 +325,10 @@
      (Value 0.1uF)))
    (place C76
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 0004FFB5)
      ("Source Package" "CAP NP")
      (Value 4.7uF)))
-   (place C44
-    (property 
-     (timestamp 00062463)
-     ("Source Package" "CAP NP")
-     (Value 0.1uF)))
    (place C104
     (property 
      ("PCB Footprint" 0603)
@@ -340,14 +337,10 @@
      (Value 0.1uF)))
    (place C77
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 0004FFE9)
      ("Source Package" "CAP NP")
      (Value 0.22uF)))
-   (place C45
-    (property 
-     (timestamp 00062473)
-     ("Source Package" "CAP NP")
-     (Value 0.1uF)))
    (place C105
     (property 
      ("PCB Footprint" 0603)
@@ -356,6 +349,7 @@
      (Value 0.1uF)))
    (place C78
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00050005)
      ("Source Package" "CAP NP")
      (Value 4.7uF)))
@@ -365,11 +359,6 @@
      (timestamp 001E4161)
      ("Source Package" "CAP NP")
      (Value 1uF)))
-   (place C46
-    (property 
-     (timestamp 00062493)
-     ("Source Package" "CAP NP")
-     (Value 0.1uF)))
    (place C79
     (property 
      ("PCB Footprint" 0603)
@@ -382,11 +371,6 @@
      (timestamp 001E4173)
      ("Source Package" "CAP NP")
      (Value 1uF)))
-   (place C47
-    (property 
-     (timestamp 000624A3)
-     ("Source Package" "CAP NP")
-     (Value 0.1uF)))
    (place C106
     (property 
      ("PCB Footprint" 0603)
@@ -395,6 +379,7 @@
      (Value 0.01uF)))
    (place C107
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 002987F1)
      ("Source Package" "CAP NP")
      (Value 20nF)))
@@ -404,29 +389,21 @@
      (timestamp 001E4185)
      ("Source Package" "CAP NP")
      (Value 1uF)))
-   (place C48
-    (property 
-     (timestamp 000624B7)
-     ("Source Package" "CAP NP")
-     (Value 0.1uF)))
    (place C17
     (property 
      ("PCB Footprint" 0603)
      (timestamp 001E4197)
      ("Source Package" "CAP NP")
      (Value 100nF)))
-   (place C49
-    (property 
-     (timestamp 000624C7)
-     ("Source Package" "CAP NP")
-     (Value 0.1uF)))
    (place C108
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 0029889B)
      ("Source Package" "CAP NP")
      (Value 20nF)))
    (place C109
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 002A19E4)
      ("Source Package" "CAP NP")
      (Value 20nF)))
@@ -496,6 +473,7 @@
      (Value LED)))
    (place D1
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 003472FD)
      ("Source Package" LED)
      (Value LED)))
@@ -520,51 +498,61 @@
   (component INDUCTOR
    (place L17
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 003AE202)
      ("Source Package" INDUCTOR)
      (Value "68E @ 100MHz")))
    (place L1
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 0004433F)
      ("Source Package" INDUCTOR)
      (Value 1500)))
    (place L2
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 0004434F)
      ("Source Package" INDUCTOR)
      (Value 1500)))
    (place L4
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00046310)
      ("Source Package" INDUCTOR)
      (Value 1500)))
    (place L5
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00046320)
      ("Source Package" INDUCTOR)
      (Value 1500)))
    (place L8
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00047F0C)
      ("Source Package" INDUCTOR)
      (Value 1500)))
    (place L9
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00047F1C)
      ("Source Package" INDUCTOR)
      (Value 1500)))
    (place L10
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 0031DBDE)
      ("Source Package" INDUCTOR)
      (Value "68E @ 100MHz")))
    (place L11
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00042BAA)
      ("Source Package" INDUCTOR)
      (Value 1500)))
    (place L12
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00042BBA)
      ("Source Package" INDUCTOR)
      (Value 1500)))
@@ -576,16 +564,19 @@
      (Value "1KE/100 MHz")))
    (place L14
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 002911B4)
      ("Source Package" INDUCTOR)
      (Value "68E @ 100MHz")))
    (place L15
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00328E4C)
      ("Source Package" INDUCTOR)
      (Value "68E @ 100MHz")))
    (place L16
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 0032FB82)
      ("Source Package" INDUCTOR)
      (Value "68E @ 100MHz"))))
@@ -686,6 +677,11 @@
      (timestamp 00064A55)
      ("Source Package" "HEADER 1")
      (Value VAP)))
+   (place J100
+    (property 
+     (timestamp 003D0A10)
+     ("Source Package" "HEADER 1")
+     (Value CF1)))
    (place J81
     (property 
      (timestamp 0004D840)
@@ -701,6 +697,16 @@
      (timestamp 0004FFD5)
      ("Source Package" "HEADER 1")
      (Value DVDD)))
+   (place J3
+    (property 
+     (timestamp 003D0E2C)
+     ("Source Package" "HEADER 1")
+     (Value CF2)))
+   (place J4
+    (property 
+     (timestamp 003D1248)
+     ("Source Package" "HEADER 1")
+     (Value CF3)))
    (place J54
     (property 
      (timestamp 0006647D)
@@ -886,6 +892,7 @@
      (Value 680E)))
    (place R89
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 003863D9)
      ("Source Package" RESISTOR)
      (Value 10)))
@@ -913,56 +920,67 @@
      (Value TBD1206)))
    (place R100
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 0028673C)
      ("Source Package" RESISTOR)
      (Value 1k)))
    (place R101
     (property 
+     ("PCB Footprint" 1206)
      (timestamp 002911E6)
      ("Source Package" RESISTOR)
      (Value 220k)))
    (place R102
     (property 
+     ("PCB Footprint" 1206)
      (timestamp 0029880F)
      ("Source Package" RESISTOR)
      (Value 220k)))
    (place R103
     (property 
+     ("PCB Footprint" 1206)
      (timestamp 00291218)
      ("Source Package" RESISTOR)
      (Value 220k)))
    (place R104
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00291230)
      ("Source Package" RESISTOR)
      (Value 1k)))
    (place R105
     (property 
+     ("PCB Footprint" 1206)
      (timestamp 00291250)
      ("Source Package" RESISTOR)
      (Value 220k)))
    (place R106
     (property 
+     ("PCB Footprint" 1206)
      (timestamp 00291280)
      ("Source Package" RESISTOR)
      (Value 220k)))
    (place R107
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00298829)
      ("Source Package" RESISTOR)
      (Value 2.2k)))
    (place R108
     (property 
+     ("PCB Footprint" 1206)
      (timestamp 00298843)
      ("Source Package" RESISTOR)
      (Value 220k)))
    (place R109
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 0029885B)
      ("Source Package" RESISTOR)
      (Value 1k)))
    (place R90
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 0039901A)
      ("Source Package" RESISTOR)
      (Value 2.2k)))
@@ -980,6 +998,7 @@
      (Value 4.7K)))
    (place R60
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 000463A4)
      ("Source Package" RESISTOR)
      (Value 100)))
@@ -991,11 +1010,19 @@
      (Value 10K)))
    (place R61
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 000463B4)
      ("Source Package" RESISTOR)
      (Value 100)))
+   (place R1
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 003BBFEC)
+     ("Source Package" RESISTOR)
+     (Value 4.7k)))
    (place R62
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 000463C4)
      ("Source Package" RESISTOR)
      (Value 1k)))
@@ -1007,9 +1034,16 @@
      (Value 10K)))
    (place R63
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 000463D4)
      ("Source Package" RESISTOR)
      (Value 1k)))
+   (place R2
+    (property 
+     ("PCB Footprint" 0805)
+     (timestamp 003C1BCF)
+     ("Source Package" RESISTOR)
+     (Value 5M)))
    (place R95
     (property 
      (timestamp 00275EE6)
@@ -1039,11 +1073,13 @@
      (Value 220E)))
    (place R98
     (property 
+     ("PCB Footprint" 1206)
      (timestamp 0027F466)
      ("Source Package" RESISTOR)
      (Value 220k)))
    (place R99
     (property 
+     ("PCB Footprint" 1206)
      (timestamp 00283C2C)
      ("Source Package" RESISTOR)
      (Value 220k)))
@@ -1067,44 +1103,49 @@
      (Value 220E)))
    (place R110
     (property 
+     ("PCB Footprint" 1206)
      (timestamp 0029887F)
      ("Source Package" RESISTOR)
      (Value 220k)))
    (place R111
     (property 
+     ("PCB Footprint" 1206)
      (timestamp 002988AF)
      ("Source Package" RESISTOR)
      (Value 220k)))
    (place R112
     (property 
-     ("PCB Footprint" <1204>)
+     ("PCB Footprint" 1206)
      (timestamp 002A1A02)
      ("Source Package" RESISTOR)
      (Value 220k)))
    (place R113
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 002A1A1C)
      ("Source Package" RESISTOR)
      (Value 2.2k)))
    (place R114
     (property 
-     ("PCB Footprint" <1204>)
+     ("PCB Footprint" 1206)
      (timestamp 002A1A36)
      ("Source Package" RESISTOR)
      (Value 220k)))
    (place R115
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 002A1A4E)
      ("Source Package" RESISTOR)
      (Value 1k)))
    (place R116
     (property 
+     ("PCB Footprint" 1206)
      (timestamp 002A1A72)
      ("Source Package" RESISTOR)
      (Value 220k)))
    (place R117
     (property 
-     ("PCB Footprint" <1204>)
+     ("PCB Footprint" 1206)
      (timestamp 002A1AA2)
      ("Source Package" RESISTOR)
      (Value 220k)))
@@ -1120,36 +1161,43 @@
      (Value TBD1206)))
    (place R72
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00047FA0)
      ("Source Package" RESISTOR)
      (Value 100)))
    (place R73
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00047FB0)
      ("Source Package" RESISTOR)
      (Value 100)))
    (place R74
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00047FC0)
      ("Source Package" RESISTOR)
      (Value 1k)))
    (place R75
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00047FD0)
      ("Source Package" RESISTOR)
      (Value 1k)))
    (place R76
     (property 
+     ("PCB Footprint" 1206)
      (timestamp 0027E210)
      ("Source Package" RESISTOR)
      (Value 220k)))
    (place R77
     (property 
+     ("PCB Footprint" 1206)
      (timestamp 0027F024)
      ("Source Package" RESISTOR)
      (Value 220k)))
    (place R78
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 0005F799)
      ("Source Package" RESISTOR)
      (Value 2.2k)))
@@ -1183,6 +1231,7 @@
      (Value TBD1206)))
    (place R81
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00042C3E)
      ("Source Package" RESISTOR)
      (Value 100)))
@@ -1193,11 +1242,13 @@
      (Value 680)))
    (place R82
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00042C4E)
      ("Source Package" RESISTOR)
      (Value 100)))
    (place R83
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00042C5E)
      ("Source Package" RESISTOR)
      (Value 1k)))
@@ -1208,6 +1259,7 @@
      (Value TBD1206)))
    (place R84
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00042C6E)
      ("Source Package" RESISTOR)
      (Value 1k)))
@@ -1218,16 +1270,19 @@
      (Value TBD1206)))
    (place R85
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00098338)
      ("Source Package" RESISTOR)
      (Value 10K)))
    (place R53
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 000443D3)
      ("Source Package" RESISTOR)
      (Value 100)))
    (place R54
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 000443E3)
      ("Source Package" RESISTOR)
      (Value 100)))
@@ -1239,6 +1294,7 @@
      (Value 1K)))
    (place R55
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 000443F3)
      ("Source Package" RESISTOR)
      (Value 1k)))
@@ -1256,6 +1312,7 @@
      (Value 10K)))
    (place R56
     (property 
+     ("PCB Footprint" 0805)
      (timestamp 00044403)
      ("Source Package" RESISTOR)
      (Value 1k)))
@@ -2919,7 +2976,7 @@
      L4-2 R60-1 R58-1))
   (net IAP
    (pins
-     U1-7 R62-2 J43-1 C59-2))
+     U1-7 J43-1 C59-2 R62-2))
   (net N2691516
    (pins
      L14-1 R104-1))
@@ -2937,7 +2994,7 @@
      R104-2 R105-2))
   (net IAP_IN
    (pins
-     L5-1 J44-1))
+     J44-1 L5-1))
   (net IAN_IN
    (pins
      J44-2 L4-1))
@@ -2946,7 +3003,7 @@
      R53-1 L1-2 R51-1))
   (net NC
    (pins
-     U1-40 U1-31 U1-30 U1-21 U1-20 U1-11 U1-10 U1-1))
+     U1-20 U1-11 U1-10 U1-1 U1-40 U1-31 U1-30 U1-21))
   (net N2721927
    (pins
      R110-1 R111-2))
@@ -2958,16 +3015,16 @@
      R111-1 R108-2))
   (net N1973182
    (pins
-     J85-5 U17-36))
+     U17-36 J85-5))
   (net N1983001
    (pins
-     LCD1-20 C17-2))
+     C17-2 LCD1-20))
   (net N1983211
    (pins
      C22-1 LCD1-26))
   (net N1983151
    (pins
-     C19-2 C18-2 C22-2 C21-2 C20-2))
+     C19-2 C18-2 C21-2 C20-2 C22-2))
   (net N1976900
    (pins
      U13-1 U17-89))
@@ -2980,127 +3037,127 @@
   (net N1983487
    (pins
      LCD1-9 J1-10))
-  (net N1977292
-   (pins
-     U13-3 R13-2))
   (net N1983515
    (pins
      J1-12 LCD1-11))
+  (net N1977292
+   (pins
+     U13-3 R13-2))
   (net N1973178
    (pins
      U17-35 J85-4))
   (net N1982655
    (pins
-     J1-15 R8-1))
-  (net N1983207
-   (pins
-     R14-1 LCD1-30))
+     R8-1 J1-15))
   (net 5V
     (property 
      (nettype S))
    (pins
-     U12-1 C95-2 J13-1 C92-1))
-  (net /RD
+     C92-1 J13-1 C95-2 U12-1))
+  (net N1983207
    (pins
-     J22-6 U17-6))
+     R14-1 LCD1-30))
   (net N1983423
    (pins
      LCD1-5 J1-6))
+  (net /RD
+   (pins
+     J22-6 U17-6))
   (net N1983455
    (pins
      LCD1-7 J1-8))
+  (net N1982647
+   (pins
+     D3-1 R5-2))
   (net "GND POWER"
     (property 
      (nettype S))
    (pins
-     J13-3 J13-2 BT3-2 C52-2 C79-2 J14-1 U17-95 C92-2 U13-4
-     C98-2 C97-2 J95-6 TS1-2 TS5-2 TS4-2 TS2-2 TS3-2 U12-3
-     U17-27 C102-2 C101-2 J92-1 C80-2 C91-2 C99-2 C100-2 U17-59
-     U17-11 C106-2 TS-2 J17-1 J94-5))
-  (net N1982647
-   (pins
-     D3-1 R5-2))
+     TS2-2 TS3-2 TS5-2 TS4-2 U12-3 J94-5 C98-2 C97-2 C52-2
+     C79-2 BT3-2 J14-1 U17-95 J13-3 C91-2 C80-2 C102-2 C101-2
+     J13-2 J92-1 J95-6 U17-27 J17-1 U13-4 C92-2 TS1-2 U17-11
+     C99-2 C100-2 U17-59 C106-2 TS-2))
   (net N1982805
    (pins
      R4-1 J1-19))
-  (net N1983387
-   (pins
-     J1-5 LCD1-4))
   (net N1973302
    (pins
      U17-39 J90-5))
+  (net N1983387
+   (pins
+     J1-5 LCD1-4))
   (net N1982757
    (pins
      D6-1 R8-2))
+  (net N1976058
+   (pins
+     J14-4 TS4-1 U17-88))
   (net N1982985
    (pins
      C16-2 LCD1-18))
-  (net N1976058
-   (pins
-     U17-88 J14-4 TS4-1))
   (net N1982997
    (pins
      C14-1 LCD1-16))
   (net N1973756
    (pins
-     U17-42 J90-3))
+     J90-3 U17-42))
   (net N1972768
    (pins
      R12-2 U13-7))
   (net N1982643
    (pins
-     J1-17 R6-1))
-  (net CS1
-   (pins
-     U17-1 J22-2))
+     R6-1 J1-17))
   (net N1983241
    (pins
      LCD1-27 J2-2))
+  (net CS1
+   (pins
+     J22-2 U17-1))
   (net N1983547
    (pins
      LCD1-13 J1-14))
+  (net N294390
+   (pins
+     C67-2 R73-2 R74-1))
   (net N1983017
    (pins
      C17-1 LCD1-21))
-  (net N294390
-   (pins
-     R74-1 C67-2 R73-2))
   (net N1982753
    (pins
      D2-1 R4-2))
-  (net LED1
-   (pins
-     U17-7 J22-19))
   (net N1983179
    (pins
      C19-1 LCD1-23))
   (net N294426
    (pins
      L9-2 R71-2 R73-1))
+  (net LED1
+   (pins
+     U17-7 J22-19))
   (net N1983483
    (pins
-     J1-11 LCD1-10))
+     LCD1-10 J1-11))
   (net N1974056
    (pins
-     J92-2 R26-2 R27-2 U19-7))
+     J92-2 R27-2 U19-7 R26-2))
   (net N1982769
    (pins
      J1-16 R7-1))
   (net IBP
    (pins
-     R74-2 J62-1 C65-2 U1-9))
-  (net D7
-   (pins
-     U17-18 J22-14))
+     J62-1 C65-2 R74-2 U1-9))
   (net N1983147
    (pins
      C18-1 LCD1-22))
-  (net N1975258
+  (net D7
    (pins
-     J91-7 U20-16))
+     J22-14 U17-18))
   (net N1983451
    (pins
      J1-9 LCD1-8))
+  (net N1975258
+   (pins
+     J91-7 U20-16))
   (net N1976940
    (pins
      C105-1 U17-41))
@@ -3110,33 +3167,33 @@
   (net N1983419
    (pins
      LCD1-6 J1-7))
+  (net VDDA
+   (pins
+     J90-1 U17-32 J90-9 J85-9 J93-1 J85-1))
   (net N1983391
    (pins
      J1-4 LCD1-3))
-  (net VDDA
-   (pins
-     J93-1 U17-32 J90-1 J85-1 J90-9 J85-9))
-  (net LED2
-   (pins
-     J22-18 U17-8))
-  (net N1983167
-   (pins
-     C20-1 LCD1-24))
   (net N2759290
    (pins
      R116-1 R117-2))
+  (net N1983167
+   (pins
+     C20-1 LCD1-24))
+  (net LED2
+   (pins
+     J22-18 U17-8))
+  (net N1983367
+   (pins
+     J1-2 LCD1-1))
   (net N2759210
    (pins
      R114-1 R112-2))
-  (net N1983367
-   (pins
-     LCD1-1 J1-2))
-  (net N1982761
-   (pins
-     D5-1 R7-2))
   (net N2759318
    (pins
      R117-1 R114-2))
+  (net N1982761
+   (pins
+     D5-1 R7-2))
   (net N1974076
    (pins
      U17-43 J90-2))
@@ -3146,36 +3203,36 @@
   (net N1983183
    (pins
      C21-1 LCD1-25))
-  (net VCP
-   (pins
-     U1-19 C87-1 J68-1 C68-1 R100-1))
   (net D4
    (pins
-     U17-15 J22-11))
-  (net N1976958
+     J22-11 U17-15))
+  (net VCP
    (pins
-     U13-6 U17-90))
+     U1-19 J68-1 C87-1 C68-1 R100-1))
   (net N1982993
    (pins
      C15-1 LCD1-17))
+  (net N1976958
+   (pins
+     U13-6 U17-90))
+  (net N1973084
+   (pins
+     U17-30 J93-2))
   (net N1983009
    (pins
      C16-1 LCD1-19))
-  (net N1973084
-   (pins
-     J93-2 U17-30))
   (net N1982765
    (pins
      D4-1 R6-2))
   (net N19829790
    (pins
-     R15-2 J2-1))
+     J2-1 R15-2))
   (net N1972862
    (pins
-     U17-93 J14-3))
+     J14-3 U17-93))
   (net N1972976
    (pins
-     C91-1 Y2-2 U17-25))
+     U17-25 Y2-2 C91-1))
   (net N1974816
    (pins
      J91-6 U20-15))
@@ -3184,100 +3241,97 @@
      U17-16 J22-12))
   (net DIR
    (pins
-     J95-1 U17-67 U19-3 U19-2 U17-64))
+     R1-1 U17-64 U19-3 U19-2 J95-1 U17-67))
   (net N1977190
    (pins
      U17-92 U13-5))
+  (net VN
+   (pins
+     C94-1 J37-1 C93-1 L14-2 R90-2 U1-18))
   (net LED3
    (pins
      J22-17 U17-19))
-  (net VN
-   (pins
-     J37-1 C94-1 C93-1 R90-2 L14-2 U1-18))
   (net N1972534
    (pins
-     U17-91 U13-2))
+     U13-2 U17-91))
   (net MISO
    (pins
      U1-37 U17-80))
   (net N1976754
    (pins
      U21-3 U17-21))
-  (net VAP_IN
-   (pins
-     J99-3 R102-1))
-  (net N1974874
-   (pins
-     U20-23 R87-2))
   (net SS_B
    (pins
      U1-39 U17-77))
+  (net N1974874
+   (pins
+     U20-23 R87-2))
+  (net VAP_IN
+   (pins
+     R102-1 J99-3))
   (net ICN_IN
    (pins
      J77-2 L11-1))
   (net SCK
    (pins
-     U1-36 U17-78))
+     U17-78 U1-36))
   (net N1976684
    (pins
      U17-84 J14-8))
   (net MOSI
    (pins
-     U17-79 U1-38))
+     U1-38 U17-79))
+  (net N273190
+   (pins
+     J76-1 R83-2 C70-2 U1-13))
   (net D0
    (pins
      J22-7 U17-9))
-  (net N273190
-   (pins
-     J76-1 U1-13 R83-2 C70-2))
-  (net VCP_IN
-   (pins
-     J99-1 R77-1))
   (net N1973796
    (pins
      J94-7 U17-55))
+  (net VCP_IN
+   (pins
+     J99-1 R77-1))
   (net VREFH
    (pins
-     J85-6 J90-6 C103-1))
+     J90-6 J85-6 C103-1))
   (net RESET_B
    (pins
-     U17-56 J95-4 R23-2 TS-1 C106-1))
+     TS-1 R23-2 C106-1 J95-4 U17-56))
   (net N1973174
    (pins
-     J85-3 U17-34))
+     U17-34 J85-3))
   (net LED5
    (pins
      U17-23 J22-15))
-  (net ~IRQ1
-   (pins
-     U1-29 J89-1 U17-73))
   (net VREFL
    (pins
-     J85-7 J90-7 C104-2))
+     J90-7 J85-7 C104-2))
   (net NMI_B
    (pins
-     U17-5 J17-2))
-  (net N3004104
-   (pins
-     R97-1 D11-2))
+     J17-2 U17-5))
   (net D2
    (pins
-     J22-9 U17-13))
+     U17-13 J22-9))
+  (net N3004104
+   (pins
+     D11-2 R97-1))
   (net N1974048
    (pins
-     R26-1 J92-3 R25-1 U19-6))
+     J92-3 R26-1 R25-1 U19-6))
   (net LED4
    (pins
      U17-20 J22-16))
   (net VREF
    (pins
-     C105-2 J85-8 J90-8))
+     C105-2 J90-8 J85-8))
   (net CF1
    (pins
-     U17-71 D10-1 U1-33))
+     U17-71 J100-1 U1-33 D10-1))
   (net REF
    (pins
-     J98-1 U1-17 C81-1 C83-1))
+     C81-1 C83-1 U1-17 J98-1))
   (net D1
    (pins
      J22-8 U17-12))
@@ -3286,16 +3340,16 @@
      U1-3 U17-75 J79-1))
   (net N1973010
    (pins
-     U17-60 C100-1))
-  (net N273068
-   (pins
-     R82-1 R80-2 L12-2))
+     C100-1 U17-60))
   (net D6
    (pins
      J22-13 U17-17))
+  (net N273068
+   (pins
+     R82-1 R80-2 L12-2))
   (net N1973076
    (pins
-     U17-28 J93-4))
+     J93-4 U17-28))
   (net N273040
    (pins
      C72-2 R82-2 R83-1))
@@ -3307,109 +3361,109 @@
      R79-1 L11-2 R81-1))
   (net N1974594
    (pins
-     U17-54 J94-6))
-  (net ~IRQ0
-   (pins
-     J96-1 U1-32 U17-72))
+     J94-6 U17-54))
   (net N1973080
    (pins
      J93-3 U17-29))
+  (net ~IRQ0
+   (pins
+     J96-1 U1-32 U17-72 J89-1 U1-29 U17-73))
   (net N1974582
    (pins
      TS3-1))
+  (net INN
+   (pins
+     U1-16 J33-1 C53-1 R56-2))
   (net N1977152
    (pins
      U17-86 J14-6))
-  (net INN
-   (pins
-     J33-1 U1-16 C53-1 R56-2))
   (net N1975792
    (pins
      R91-2 U23-2))
   (net SWD_IO
    (pins
-     U19-1 J95-5 U17-65))
+     J95-5 U17-65 U19-1))
   (net N1974820
    (pins
-     R88-1 U20-19 U20-20 J91-8 C88-1))
-  (net N1976864
-   (pins
-     TS1-1))
+     R88-1 U20-19 J91-8 U20-20 C88-1))
   (net N273270
    (pins
      R81-2 C71-1 R84-1))
+  (net N1976864
+   (pins
+     TS1-1))
   (net IBN
    (pins
-     U1-12 C64-1 J61-1 R75-2))
+     U1-12 J61-1 R75-2 C64-1))
   (net IAN
    (pins
-     U1-8 R63-2 J42-1 C58-1))
+     J42-1 U1-8 C58-1 R63-2))
   (net N1973516
    (pins
      U17-40 J90-4))
   (net N3274451
    (pins
      L10-1 R99-2))
-  (net RES
-   (pins
-     J22-3 U17-2))
   (net ICP_IN
    (pins
      L12-1 J77-1))
+  (net RES
+   (pins
+     J22-3 U17-2))
   (net SWD_CLK
    (pins
      J95-3 U17-66 U19-4))
   (net VBP
    (pins
-     C109-1 U1-22 C110-1 J54-1 R115-1))
-  (net N1976362
-   (pins
-     J14-5 U17-87 TS5-1))
+     C109-1 U1-22 J54-1 C110-1 R115-1))
   (net VAP
    (pins
-     U1-23 C108-1 C107-1 R109-1 J49-1))
+     U1-23 C107-1 R109-1 C108-1 J49-1))
   (net N2721891
    (pins
-     R107-2 R109-2 L15-2))
+     R109-2 L15-2 R107-2))
+  (net N1976362
+   (pins
+     U17-87 J14-5 TS5-1))
+  (net N1972846
+   (pins
+     U17-24 BT3-1))
   (net N3328925
    (pins
      L15-1 R110-2))
   (net N294638
    (pins
-     R72-1 R70-1 L8-2))
-  (net N1972846
-   (pins
-     U17-24 BT3-1))
+     R70-1 R72-1 L8-2))
   (net PAD_CN
    (pins
      U1-41))
   (net N287258
    (pins
      L5-2 R59-2 R61-1))
-  (net N744340
-   (pins
-     R62-1 R61-2 C61-2))
   (net /WR
    (pins
-     U17-4 J22-5))
+     J22-5 U17-4))
+  (net N744340
+   (pins
+     R61-2 R62-1 C61-2))
+  (net N1977194
+   (pins
+     R94-2 U21-7))
   (net AVDD
    (pins
-     U1-24 R89-1 J82-1 C75-1 C76-1))
-  (net N2759148
-   (pins
-     R113-2 L16-2 R115-2))
+     U1-24 C76-1 J82-1 R89-1 C75-1))
   (net N287794
    (pins
      C60-1 R60-2 R63-1))
-  (net N1977194
+  (net N2759148
    (pins
-     U21-7 R94-2))
-  (net N279303
-   (pins
-     R53-2 C55-1 R56-1))
+     R115-2 L16-2 R113-2))
   (net N2759258
    (pins
      L16-1 R116-2))
+  (net N279303
+   (pins
+     C55-1 R56-1 R53-2))
   (net VN_IN
    (pins
      J99-4 R101-1))
@@ -3420,71 +3474,68 @@
     (property 
      (nettype S))
    (pins
-     U20-7 R88-2 C88-2 C90-2 U21-5 C86-2 U20-26 J91-5 U20-18
-     U20-25 U20-21))
-  (net CLKOUT
-   (pins
-     U1-28 Y1-2 C29-2))
-  (net CLKIN
-   (pins
-     U1-27 C30-2 Y1-1))
+     U20-7 C90-2 U21-5 R88-2 U20-26 J91-5 U20-18 U20-21 U20-25
+     C86-2 C88-2))
   (net N2275511
    (pins
      R75-1 R72-2 C66-1))
+  (net CLKIN
+   (pins
+     U1-27 C30-2 R2-2 Y1-1))
   (net D3
    (pins
-     U17-14 J22-10))
-  (net IBP_IN
-   (pins
-     J63-1 L9-1))
+     J22-10 U17-14))
   (net N1976070
    (pins
      U17-85 J14-7))
+  (net IBP_IN
+   (pins
+     L9-1 J63-1))
   (net N1973142
    (pins
-     U17-33 J85-2))
+     J85-2 U17-33))
   (net A0
    (pins
      J22-4 U17-3))
   (net N1972968
    (pins
-     U17-26 Y2-1 C80-1))
-  (net PM0
-   (pins
-     J78-1 U17-74 U1-2))
+     C80-1 Y2-1 U17-26))
   (net N1974948
    (pins
      U20-22 R86-2))
+  (net PM0
+   (pins
+     U1-2 J78-1 U17-74))
   (net N3437331
    (pins
      R50-1 D1-2))
   (net N273222
    (pins
-     R84-2 C69-1 J75-1 U1-14))
+     U1-14 R84-2 C69-1 J75-1))
   (net N1975464
    (pins
      U17-83 J14-9))
   (net N1972904
    (pins
-     U17-94 J14-2))
+     J14-2 U17-94))
   (net N1975484
    (pins
-     U20-5 U21-6))
+     U21-6 U20-5))
   (net N1972980
    (pins
      C104-1 U17-38))
   (net VDD_FT232
    (pins
-     C86-1 D8-2 R91-1 U20-4 R94-1 U21-8 C90-1 D9-2 U20-17))
+     R91-1 U20-4 C86-1 U20-17 D9-2 D8-2 R94-1 C90-1 U21-8))
   (net CF3
    (pins
-     U1-35 U17-69 D11-1))
+     U17-69 U1-35 D11-1 J4-1))
+  (net CF2
+   (pins
+     U1-34 U17-70 D7-1 J3-1))
   (net N1976886
    (pins
      U23-7 R93-2))
-  (net CF2
-   (pins
-     U1-34 D7-1 U17-70))
   (net N1975822
    (pins
      U23-3 U20-1))
@@ -3493,7 +3544,7 @@
      R92-2 U21-2))
   (net N19748480
    (pins
-     D9-1 R86-1))
+     R86-1 D9-1))
   (net N19749300
    (pins
      R87-1 D8-1))
@@ -3510,68 +3561,72 @@
      J26-2 L1-1))
   (net INP_IN
    (pins
-     L2-1 J26-1))
+     J26-1 L2-1))
   (net N1975934
    (pins
-     U17-22 U23-6))
+     U23-6 U17-22))
   (net INP
    (pins
-     J34-1 U1-15 C54-2 R55-2))
+     J34-1 C54-2 R55-2 U1-15))
   (net N279093
    (pins
-     C56-2 R54-2 R55-1))
+     R54-2 C56-2 R55-1))
   (net N2580186
    (pins
-     R95-1 D7-2))
+     D7-2 R95-1))
   (net GND
     (property 
      (nettype S))
    (pins
-     TP10-1 C94-2 C87-2 C64-2 C65-1 R78-1 R79-2 R80-1 SW1-2
-     R90-1 C53-2 C54-1 C58-2 C59-1 R113-1 C109-2 R107-1 R52-1
-     R51-2 C110-2 TP8-1 TP7-1 TP6-1 C66-2 C67-1 C107-2 TP9-1
-     R58-2 R59-1 SW1-1 C93-2 C69-2 C70-1 C56-1 C55-2 C76-2
-     L17-1 C75-2 C108-2 C72-1 C71-2 U1-25 R70-2 R71-1 C68-2
-     C61-1 C60-2 TP1-1 C74-2 C73-2 C29-1 C95-1 C96-1 LCD1-15
-     C14-2 J22-1 LCD1-29 TP4-1 TP3-1 C78-2 L17-2 C81-2 R16-2
-     C15-2 TP5-1 J1-1 TP2-1 C77-2 C30-1 C89-2 U23-5 R27-1
-     U19-5 C83-2 U1-6))
+     R1-2 U23-5 C96-1 C30-1 J1-1 C78-2 L17-2 C77-2 C89-2
+     C29-1 TP5-1 TP4-1 TP3-1 TP2-1 C95-1 TP1-1 C73-2 C74-2
+     R16-2 LCD1-29 R27-1 U19-5 LCD1-15 C15-2 C14-2 J22-1 U1-6))
   (net N2586115
    (pins
-     R96-1 D10-2))
+     D10-2 R96-1))
   (net RESETB
    (pins
-     SW1-4 SW1-3 U1-4 C85-2 R85-2))
+     SW1-3 SW1-4 C85-2 U1-4 R85-2))
+  (net CLKOUT
+   (pins
+     C29-2 R2-1 Y1-2 U1-28))
   (net +3.3V
     (property 
      (nettype S))
    (pins
-     R14-2 U17-10 C102-1 U17-62 U17-61 D5-2 U1-5 C45-1 U13-8
-     J95-2 R23-1 J81-1 C73-1 U1-26 C74-1 J83-1 R89-2 C78-1
-     C77-1 C99-1 C52-1 C79-1 C44-1 J22-20 C43-1 C42-1 R13-1
-     R92-1 C96-2 U12-2 R12-1 J94-8 C101-1 L13-1 J17-3 R85-1
-     C85-1 C46-1 C49-1 C51-1 C50-1 C48-1 C47-1 U19-8 R25-2
-     D6-2 D2-2 D3-2 D4-2 D1-1 J25-1 J14-10 LCD1-28 R15-1
-     J1-20 LCD1-14 R93-1 C89-1 U23-8 C97-1 C98-1 L13-2 U17-31
-     J93-5))
+     R14-2 U1-5 R12-1 U12-2 U17-61 U17-62 U1-26 J81-1 C73-1
+     C74-1 C99-1 R92-1 C52-1 C79-1 U23-8 C89-1 R93-1 L13-1
+     C101-1 C102-1 U17-10 J94-8 J95-2 R23-1 C96-2 U13-8 R13-1
+     R25-2 U19-8 J83-1 C78-1 R89-2 C77-1 J17-3 J14-10 J22-20
+     R85-1 LCD1-28 R15-1 D6-2 D2-2 D3-2 D5-2 D4-2 LCD1-14
+     J1-20 C85-1 D1-1 J25-1 J93-5 U17-31 C97-1 L13-2 C98-1))
   (net IBN_IN
    (pins
      L8-1 J63-2))
+  (net GND_SIGNAL
+    (property 
+     (nettype S))
+   (pins
+     C66-2 R51-2 TP9-1 TP8-1 TP7-1 C87-2 R90-1 C108-2 C94-2
+     SW1-2 C53-2 C54-1 R80-1 R79-2 R52-1 C69-2 C70-1 C93-2
+     C109-2 SW1-1 C67-1 TP6-1 C107-2 R78-1 C110-2 TP10-1 C68-2
+     C61-1 C60-2 C71-2 C72-1 R113-1 C56-1 C55-2 C76-2 L17-1
+     C75-2 R107-1 R71-1 R70-2 R58-2 R59-1 C81-2 C83-2 C59-1
+     C58-2 C65-1 C64-2 U1-25))
   (net GND_POWER
     (property 
      (nettype S))
    (pins
-     C45-2 C42-2 C43-2 C44-2 C46-2 R50-2 R95-2 R97-2 C51-2
-     C50-2 C48-2 C47-2 C49-2 R96-2))
+     R96-2 R95-2 R50-2 R97-2))
   (net N2613784
    (pins
      R76-1 R98-2))
-  (net VBP_IN
-   (pins
-     J99-2 R112-1))
   (net N2618478
    (pins
      R98-1 R77-2))
+  (net VBP_IN
+   (pins
+     R112-1 J99-2))
   (net N2636856
    (pins
      R99-1 R76-2))
