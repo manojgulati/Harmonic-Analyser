@@ -1,10 +1,10 @@
 (PCB DESIGN2
  (description
-  (timeStamp "2015 01 07 17 40 23")
+  (timeStamp "2015 01 07 18 40 43")
   (program "CAPTURE.EXE" (Version "10.5.0.b001 CIS"))
   (source "Original data from OrCAD/CAPTURE schematic")
   (title "ADE7880 Evaulation Board (Designed by Manoj G.)")
-  (date "Wednesday, January 07, 2015")
+  (date "Thursday, January 08, 2015")
   (document "C:\\USERS\\MANOJG\\DOCUMENTS\\GITHUB\\HARMONIC-ANALYSER\\HARMONIC ANALYSER\\ORCAD_CAPTURE_SESDP\\VER2.11\\DESIGN2.DSN")
   (revision "<1.0>")
   (organization "")
@@ -1385,11 +1385,6 @@
    (place TS
     (property 
      (timestamp 001E1A3C)
-     ("Source Package" "SW PUSHBUTTON")
-     (Value "SW PUSHBUTTON")))
-   (place TS1
-    (property 
-     (timestamp 001E23E6)
      ("Source Package" "SW PUSHBUTTON")
      (Value "SW PUSHBUTTON")))
    (place TS2
@@ -3001,9 +2996,6 @@
   (net N279255
    (pins
      R53-1 L1-2 R51-1))
-  (net NC
-   (pins
-     U1-20 U1-11 U1-10 U1-1 U1-40 U1-31 U1-30 U1-21))
   (net N2721927
    (pins
      R110-1 R111-2))
@@ -3073,10 +3065,10 @@
     (property 
      (nettype S))
    (pins
-     TS2-2 TS3-2 TS5-2 TS4-2 U12-3 J94-5 C98-2 C97-2 C52-2
-     C79-2 BT3-2 J14-1 U17-95 J13-3 C91-2 C80-2 C102-2 C101-2
-     J13-2 J92-1 J95-6 U17-27 J17-1 U13-4 C92-2 TS1-2 U17-11
-     C99-2 C100-2 U17-59 C106-2 TS-2))
+     U12-3 J94-5 C98-2 C97-2 C52-2 C79-2 BT3-2 J14-1 U17-95
+     J13-3 C91-2 C80-2 C102-2 C101-2 J13-2 J92-1 J95-6 U17-27
+     J17-1 U13-4 C106-2 TS-2 C92-2 TS3-2 TS5-2 TS4-2 TS2-2
+     U17-11 C99-2 C100-2 U17-59))
   (net N1982805
    (pins
      R4-1 J1-19))
@@ -3239,9 +3231,6 @@
   (net D5
    (pins
      U17-16 J22-12))
-  (net DIR
-   (pins
-     R1-1 U17-64 U19-3 U19-2 J95-1 U17-67))
   (net N1977190
    (pins
      U17-92 U13-5))
@@ -3298,7 +3287,7 @@
      J90-6 J85-6 C103-1))
   (net RESET_B
    (pins
-     TS-1 R23-2 C106-1 J95-4 U17-56))
+     J95-4 R23-2 TS-1 C106-1 U17-56))
   (net N1973174
    (pins
      U17-34 J85-3))
@@ -3389,9 +3378,6 @@
   (net N273270
    (pins
      R81-2 C71-1 R84-1))
-  (net N1976864
-   (pins
-     TS1-1))
   (net IBN
    (pins
      U1-12 J61-1 R75-2 C64-1))
@@ -3599,7 +3585,7 @@
      C101-1 C102-1 U17-10 J94-8 J95-2 R23-1 C96-2 U13-8 R13-1
      R25-2 U19-8 J83-1 C78-1 R89-2 C77-1 J17-3 J14-10 J22-20
      R85-1 LCD1-28 R15-1 D6-2 D2-2 D3-2 D5-2 D4-2 LCD1-14
-     J1-20 C85-1 D1-1 J25-1 J93-5 U17-31 C97-1 L13-2 C98-1))
+     J1-20 C85-1 D1-1 J25-1))
   (net IBN_IN
    (pins
      L8-1 J63-2))
@@ -3618,19 +3604,52 @@
      (nettype S))
    (pins
      R96-2 R95-2 R50-2 R97-2))
+  (net N1973064
+   (pins
+     J93-5 U17-31 C97-1 C98-1 L13-2))
   (net N2613784
    (pins
      R76-1 R98-2))
+  (net RTC_CLKOUT
+   (pins
+     U17-67 J95-1))
   (net N2618478
    (pins
      R98-1 R77-2))
   (net VBP_IN
    (pins
      R112-1 J99-2))
+  (net DIR
+   (pins
+     U19-3 R1-1 U19-2 U17-64))
+  (net N03253
+   (pins
+     U1-40))
+  (net N03199
+   (pins
+     U1-31))
   (net N2636856
    (pins
      R99-1 R76-2))
+  (net N03003
+   (pins
+     U1-11))
+  (net N02959
+   (pins
+     U1-10))
+  (net N02917
+   (pins
+     U1-1))
+  (net N03147
+   (pins
+     U1-30))
   (net N2635561
    (pins
-     R100-2 L10-2 R78-2)))
+     R100-2 L10-2 R78-2))
+  (net N03049
+   (pins
+     U1-20))
+  (net N03097
+   (pins
+     U1-21)))
 )
