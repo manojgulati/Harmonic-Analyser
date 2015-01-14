@@ -134,9 +134,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1210 52 476")
-        (Scroll "2855 1225")
-        (Zoom "144")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1210 52 476")
+        (Scroll "3167 168")
+        (Zoom "142")
         (Occurrence "/"))
       (Path
          "C:\USERS\MANOJG\DOCUMENTS\GITHUB\HARMONIC-ANALYSER\HARMONIC ANALYSER\ORCAD_CAPTURE_SESDP\VER2.11\DESIGN2.DSN")
