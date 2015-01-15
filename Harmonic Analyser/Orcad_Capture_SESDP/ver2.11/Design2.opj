@@ -28,8 +28,24 @@
       (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (BC547
+      (FullPartName "BC547.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    ("RELAY SPDT"
+      (FullPartName "RELAY SPDT.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
     ("HEADER 1"
       (FullPartName "HEADER 1.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 11"
+      (FullPartName "HEADER 11.Normal")
       (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
       (DeviceIndex "0"))
     (RESISTOR
@@ -110,21 +126,12 @@
     (1N5454A
       (FullPartName "1N5454A.Normal")
       (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    (GND_SIGNAL
-      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (ADE7880ACPZ
-      (FullPartName "ADE7880ACPZ.Normal")
-      (LibraryName
-         "C:\USERS\MANOJ\DROPBOX\SESDP\PROJECT\BOARD DESIGN FILES\ORCAD SYMBOL ADE7880\2014-10-17_12-35-19\2014-10-17_12-35-19.OLB")
       (DeviceIndex "0")))
   (LastUsedLibraryBrowseDirectory "C:\OrCAD\OrCAD_10.5\tools\capture\library")
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Outputs")
-      (Select "Design Resources"))
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -135,8 +142,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 52 1210 52 476")
-        (Scroll "3167 168")
-        (Zoom "142")
+        (Scroll "2495 21")
+        (Zoom "118")
         (Occurrence "/"))
       (Path
          "C:\USERS\MANOJG\DOCUMENTS\GITHUB\HARMONIC-ANALYSER\HARMONIC ANALYSER\ORCAD_CAPTURE_SESDP\VER2.11\DESIGN2.DSN")
