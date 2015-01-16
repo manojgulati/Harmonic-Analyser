@@ -8,7 +8,7 @@
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
-    (Netlist_TAB "8")
+    (Netlist_TAB "0")
     (OTHER_Part_Value "{Value}")
     (OTHER_Netlist_File "DESIGN2.asc")
     (OTHER_Netlist_File2 "DESIGN2.CMP")
@@ -142,7 +142,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 52 1210 52 476")
-        (Scroll "2495 21")
+        (Scroll "2495 800")
         (Zoom "118")
         (Occurrence "/"))
       (Path
