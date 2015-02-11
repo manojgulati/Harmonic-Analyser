@@ -1,0 +1,640 @@
+   
+NET LIST REPORT -- HARMONICS ANALYSER-A.pcb -- Wed Feb 04 13:39:53 2015
+   
+   
+*SIG +3.3V
+C101.1.U                C102.1.U                U17.10.U                C52.1.U
+C73.1.U                 J81.1.U                 C74.1.U                 J83.1.U
+C77.1.U                 C78.1.U                 C79.1.U                 C85.1.U
+R85.1.U                 R92.1.U                 C89.1.U                 R89.2.U
+C96.2.U                 U17.62.U                C99.1.U                 D1.1.U
+D4.2.U                  D2.2.U                  J17.3.U                 D3.2.U
+D5.2.U                  D6.2.U                  J14.10.S                J94.4.U
+J25.1.U                 R12.1.U                 J95.2.U                 U17.61.U
+L13.1.U                 LCD1.14.U               LCD1.28.U               U13.8.U
+R13.1.U                 R14.2.U                 U12.2.U                 R15.1.U
+R23.1.U                 R25.2.U                 U1.26.U                 R93.1.U
+U1.5.U                  U19.8.U                 U23.8.U
+   
+*SIG /RD
+LCD1.5.U                U17.6.U
+   
+*SIG /WR
+LCD1.4.U                U17.4.U
+   
+*SIG 5V
+C95.2.U                 C92.1.U                 J13.1.U                 U12.1.U
+K1.5.U                  D12.1.U
+   
+*SIG A0
+LCD1.3.U                U17.3.U
+   
+*SIG AGND
+C107.2.U                C108.2.U                C109.2.U                C110.2.U
+C87.2.U                 C55.2.U                 C53.2.U                 C56.1.U
+C54.1.U                 R113.1.U                C69.2.U                 C60.2.U
+C58.2.U                 C61.1.U                 C59.1.U                 R58.2.U
+R59.1.U                 C70.1.U                 C64.2.U                 R71.1.U
+C65.1.U                 C66.2.U                 C67.1.U                 R78.1.U
+C68.2.U                 R79.2.U                 C72.1.U                 C71.2.U
+R80.1.U                 C75.2.U                 C76.2.U                 L17.1.U
+C81.2.U                 C83.2.U                 C93.2.U                 C94.2.U
+R90.1.U                 R107.1.U                R51.2.U                 R52.1.U
+R70.2.U                 TP9.1.U                 TP10.1.U                TP7.1.U
+TP6.1.U                 SW1.1.U                 TP8.1.U                 U1.25.U
+SW1.2.U
+   
+*SIG AVDD
+R89.1.U                 J82.1.U                 C76.1.U                 C75.1.U
+U1.24.U
+   
+*SIG CF1
+U17.71.U                J5.3.U                  J1.1.U                  U1.33.U
+D10.1.U
+   
+*SIG CF2
+J5.4.U                  U17.70.U                D7.1.U                  J3.1.U
+U1.34.U
+   
+*SIG CF3
+J5.5.U                  U17.69.U                J4.1.U                  D11.1.U
+U1.35.U
+   
+*SIG CLKIN
+U1.27.U                 R2.1.U                  Y1.1.U                  C30.2.U
+   
+*SIG CLKOUT
+U1.28.U                 R2.2.U                  Y1.2.U                  C29.2.U
+   
+*SIG CS1
+LCD1.1.U                U17.1.U
+   
+*SIG D0
+LCD1.6.U                U17.9.U
+   
+*SIG D1
+LCD1.7.U                U17.12.U
+   
+*SIG D2
+LCD1.8.U                U17.13.U
+   
+*SIG D3
+LCD1.9.U                U17.14.U
+   
+*SIG D4
+LCD1.10.U               U17.15.U
+   
+*SIG D5
+LCD1.11.U               U17.16.U
+   
+*SIG D6
+LCD1.12.U               U17.17.U
+   
+*SIG D7
+LCD1.13.U               U17.18.U
+   
+*SIG DGND
+U17.11.U                U17.27.U                U17.59.U                C100.2.U
+C102.2.U                C101.2.U                C14.2.U                 J95.6.U
+C106.2.U                LCD1.15.U               C15.2.U                 R97.2.U
+C29.1.U                 C30.1.U                 C79.2.U                 C52.2.U
+C73.2.U                 C77.2.U                 C74.2.U                 C78.2.U
+L17.2.U                 U17.95.U                C80.2.U                 C97.2.U
+TS2.2.U                 C89.2.U                 C91.2.U                 U12.3.U
+C92.2.U                 C95.1.U                 C96.1.U                 C98.2.U
+C99.2.U                 BT3.2.U                 J13.2.U                 J13.3.U
+J14.1.S                 J94.1.U                 J17.1.U                 R50.2.U
+J92.1.U                 TS.2.U                  R16.2.U                 U19.5.U
+R27.1.U                 U13.4.U                 LCD1.29.U               R96.2.U
+R95.2.U                 TS5.2.U                 TP1.1.U                 TP2.1.U
+TP3.1.U                 TP4.1.U                 TP5.1.U                 U1.6.U
+R1.2.U                  U23.5.U                 TS3.2.U                 TS4.2.U
+Q1.E.U
+   
+*SIG DIR
+U19.2.U                 U19.3.U                 R1.1.U                  U17.64.U
+   
+*SIG GND_EARTH
+U21.5.U                 C86.2.U                 U20.26.U                U20.25.U
+J91.1.U                 C88.2.U                 R88.2.U                 U20.18.U
+U20.21.U                C90.2.U                 U20.7.U
+   
+*SIG IAN
+R63.2.U                 C58.1.U                 J42.1.U                 U1.8.U
+   
+*SIG IAN_IN
+J44.2.U                 L4.1.U
+   
+*SIG IAP
+R62.2.U                 C59.2.U                 J43.1.U                 U1.7.U
+   
+*SIG IAP_IN
+J44.1.U                 L5.1.U
+   
+*SIG IBN
+C64.1.U                 R75.2.U                 J61.1.U                 U1.12.U
+   
+*SIG IBN_IN
+L8.1.U                  J63.2.U
+   
+*SIG IBP
+R74.2.U                 C65.2.U                 J62.1.U                 U1.9.U
+   
+*SIG IBP_IN
+L9.1.U                  J63.1.U
+   
+*SIG ICN_IN
+L11.1.U                 J77.2.U
+   
+*SIG ICP_IN
+J77.1.U                 L12.1.U
+   
+*SIG INN
+R56.2.U                 C53.1.U                 J33.1.U                 U1.16.U
+   
+*SIG INN_IN
+L1.1.U                  J26.2.U
+   
+*SIG INP
+R55.2.U                 C54.2.U                 J34.1.U                 U1.15.U
+   
+*SIG INP_IN
+L2.1.U                  J26.1.U
+   
+*SIG IRQ0
+U17.73.U                J5.1.U                  J89.1.U                 U1.29.U
+   
+*SIG IRQ1
+U17.72.U                J5.2.U                  J96.1.U                 U1.32.U
+   
+*SIG LED1
+R4.1.U                  U17.7.U
+   
+*SIG LED2
+R5.1.U                  U17.8.U
+   
+*SIG LED3
+R6.1.U                  U17.19.U
+   
+*SIG LED4
+R7.1.U                  U17.20.U
+   
+*SIG LED5
+R8.1.U                  U17.23.U
+   
+*SIG MISO
+U17.80.U                J5.7.U                  U1.37.U
+   
+*SIG MOSI
+U17.79.U                J5.8.U                  U1.38.U
+   
+*SIG N273040
+C72.2.U                 R82.2.U                 R83.1.U
+   
+*SIG N273068
+R80.2.U                 L12.2.U                 R82.1.U
+   
+*SIG N273190
+C70.2.U                 R83.2.U                 J76.1.U                 U1.13.U
+   
+*SIG N273198
+R79.1.U                 L11.2.U                 R81.1.U
+   
+*SIG N273222
+J75.1.U                 R84.2.U                 C69.1.U                 U1.14.U
+   
+*SIG N273270
+R81.2.U                 C71.1.U                 R84.1.U
+   
+*SIG N279093
+R54.2.U                 C56.2.U                 R55.1.U
+   
+*SIG N279109
+L2.2.U                  R52.2.U                 R54.1.U
+   
+*SIG N279255
+R51.1.U                 L1.2.U                  R53.1.U
+   
+*SIG N279303
+C55.1.U                 R53.2.U                 R56.1.U
+   
+*SIG N287258
+L5.2.U                  R59.2.U                 R61.1.U
+   
+*SIG N287404
+L4.2.U                  R58.1.U                 R60.1.U
+   
+*SIG N287794
+R60.2.U                 R63.1.U                 C60.1.U
+   
+*SIG N294390
+R73.2.U                 C67.2.U                 R74.1.U
+   
+*SIG N294426
+R71.2.U                 R73.1.U                 L9.2.U
+   
+*SIG N294638
+L8.2.U                  R70.1.U                 R72.1.U
+   
+*SIG N744340
+R61.2.U                 C61.2.U                 R62.1.U
+   
+*SIG N1972534
+U13.2.U                 U17.91.U
+   
+*SIG N1972768
+R12.2.U                 U13.7.U
+   
+*SIG N1972846
+U17.24.U                BT3.1.U
+   
+*SIG N1972862
+J14.3.S                 TS3.3.U                 U17.93.U
+   
+*SIG N1972904
+J14.2.S                 TS2.3.U                 U17.94.U
+   
+*SIG N1972968
+C80.1.U                 Y2.1.U                  U17.26.U
+   
+*SIG N1972976
+C91.1.U                 Y2.2.U                  U17.25.U
+   
+*SIG N1972980
+C104.1.U                U17.38.U
+   
+*SIG N1973010
+C100.1.U                U17.60.U
+   
+*SIG N1973076
+J93.4.U                 U17.28.U
+   
+*SIG N1973080
+J93.3.U                 U17.29.U
+   
+*SIG N1973084
+J93.2.U                 U17.30.U
+   
+*SIG N1973142
+J85.2.S                 U17.33.U
+   
+*SIG N1973174
+J85.3.S                 U17.34.U
+   
+*SIG N1973178
+J85.4.S                 U17.35.U
+   
+*SIG N1973182
+J85.5.S                 U17.36.U
+   
+*SIG N1973302
+J90.5.S                 U17.39.U
+   
+*SIG N1973516
+J90.4.S                 U17.40.U
+   
+*SIG N1973756
+J90.3.S                 U17.42.U
+   
+*SIG N1973796
+J94.3.U                 U17.55.U
+   
+*SIG N1974048
+J92.3.U                 R26.1.U                 R25.1.U                 U19.6.U
+   
+*SIG N1974056
+J92.2.U                 R26.2.U                 R27.2.U                 U19.7.U
+   
+*SIG N1974076
+J90.2.S                 U17.43.U
+   
+*SIG N1974594
+J94.2.U                 U17.54.U
+   
+*SIG N1974816
+J91.2.U                 U20.15.U
+   
+*SIG N1974820
+J91.4.U                 C88.1.U                 R88.1.U                 U20.20.U
+U20.19.U
+   
+*SIG N1974874
+R87.2.U                 U20.23.U
+   
+*SIG N1974948
+R86.2.U                 U20.22.U
+   
+*SIG N1975258
+J91.3.U                 U20.16.U
+   
+*SIG N1975464
+J14.4.S                 U17.83.U
+   
+*SIG N1975484
+U21.6.U                 U20.5.U
+   
+*SIG N1975526
+R92.2.U                 U21.2.U
+   
+*SIG N1975792
+U23.2.U                 R91.2.U
+   
+*SIG N1975822
+U23.3.U                 U20.1.U
+   
+*SIG N1975934
+U23.6.U                 U17.22.U
+   
+*SIG N1976058
+J14.9.S                 TS4.3.U                 U17.88.U
+   
+*SIG N1976070
+J14.6.S                 U17.85.U
+   
+*SIG N1976362
+U17.87.U                J14.8.S                 TS5.3.U
+   
+*SIG N1976684
+J14.5.S                 U17.84.U
+   
+*SIG N1976754
+U17.21.U                U21.3.U
+   
+*SIG N1976886
+U23.7.U                 R93.2.U
+   
+*SIG N1976900
+U17.89.U                U13.1.U
+   
+*SIG N1976940
+C105.1.U                U17.41.U
+   
+*SIG N1976958
+U17.90.U                U13.6.U
+   
+*SIG N1977152
+J14.7.S                 U17.86.U
+   
+*SIG N1977190
+U17.92.U                U13.5.U
+   
+*SIG N1977194
+R94.2.U                 U21.7.U
+   
+*SIG N1977292
+U13.3.U                 R13.2.U
+   
+*SIG N1982647
+D3.1.U                  R5.2.U
+   
+*SIG N1982753
+D2.1.U                  R4.2.U
+   
+*SIG N1982757
+D6.1.U                  R8.2.U
+   
+*SIG N1982761
+D5.1.U                  R7.2.U
+   
+*SIG N1982765
+D4.1.U                  R6.2.U
+   
+*SIG N1982985
+C16.2.U                 LCD1.18.U
+   
+*SIG N1982993
+C15.1.U                 LCD1.17.U
+   
+*SIG N1982997
+C14.1.U                 LCD1.16.U
+   
+*SIG N1983001
+LCD1.20.U               C17.2.U
+   
+*SIG N1983009
+C16.1.U                 LCD1.19.U
+   
+*SIG N1983017
+C17.1.U                 LCD1.21.U
+   
+*SIG N1983147
+C18.1.U                 LCD1.22.U
+   
+*SIG N1983151
+C18.2.U                 C19.2.U                 C20.2.U                 C21.2.U
+C22.2.U
+   
+*SIG N1983167
+C20.1.U                 LCD1.24.U
+   
+*SIG N1983179
+C19.1.U                 LCD1.23.U
+   
+*SIG N1983183
+C21.1.U                 LCD1.25.U
+   
+*SIG N1983207
+R14.1.U                 LCD1.30.U
+   
+*SIG N1983211
+C22.1.U                 LCD1.26.U
+   
+*SIG N1983241
+LCD1.27.U               J2.2.U
+   
+*SIG N1983309
+R16.1.U                 J2.3.U
+   
+*SIG N2275511
+R72.2.U                 C66.1.U                 R75.1.U
+   
+*SIG N2580186
+R95.1.U                 D7.2.U
+   
+*SIG N2586115
+R96.1.U                 D10.2.U
+   
+*SIG N2613784
+R76.1.U                 R98.2.U
+   
+*SIG N2618478
+R98.1.U                 R77.2.U
+   
+*SIG N2635561
+R100.2.U                R78.2.U                 L10.2.U
+   
+*SIG N2636856
+R99.1.U                 R76.2.U
+   
+*SIG N2691596
+R103.1.U                R101.2.U
+   
+*SIG N2691672
+R105.1.U                R106.2.U
+   
+*SIG N2691700
+R106.1.U                R103.2.U
+   
+*SIG N2721847
+R108.1.U                R102.2.U
+   
+*SIG N2721891
+L15.2.U                 R107.2.U                R109.2.U
+   
+*SIG N2721927
+R110.1.U                R111.2.U
+   
+*SIG N2721955
+R111.1.U                R108.2.U
+   
+*SIG N2759148
+L16.2.U                 R113.2.U                R115.2.U
+   
+*SIG N2759210
+R114.1.U                R112.2.U
+   
+*SIG N2759258
+L16.1.U                 R116.2.U
+   
+*SIG N2759290
+R116.1.U                R117.2.U
+   
+*SIG N2759318
+R117.1.U                R114.2.U
+   
+*SIG N3004104
+R97.1.U                 D11.2.U
+   
+*SIG N3274451
+L10.1.U                 R99.2.U
+   
+*SIG N3328925
+L15.1.U                 R110.2.U
+   
+*SIG N3437331
+R50.1.U                 D1.2.U
+   
+*SIG N19748480
+R86.1.U                 D9.1.U
+   
+*SIG N19749300
+R87.1.U                 D8.1.U
+   
+*SIG N19829790
+R15.2.U                 J2.1.U
+   
+*SIG N197275034
+U17.37.U                C103.2.U
+   
+*SIG NMI_B
+U17.5.U                 J17.2.U
+   
+*SIG PM0
+J78.1.U                 U1.2.U                  U17.74.U                J5.10.U
+   
+*SIG PM1
+J79.1.U                 U1.3.U                  U17.75.U                J5.11.U
+   
+*SIG REF
+C83.1.U                 C81.1.U                 J98.1.U                 U1.17.U
+   
+*SIG RES
+LCD1.2.U                U17.2.U
+   
+*SIG RESETB
+U1.4.U                  C85.2.U                 R85.2.U                 SW1.4.U
+SW1.3.U
+   
+*SIG RESET_B
+J95.4.U                 U17.56.U                TS.3.U                  R23.2.U
+C106.1.U
+   
+*SIG RTC_CLKOUT
+J95.1.U                 U17.67.U
+   
+*SIG SCK
+U17.78.U                J5.6.U                  U1.36.U
+   
+*SIG SS_B
+U17.77.U                J5.9.U                  U1.39.U
+   
+*SIG SWD_CLK
+J95.3.U                 U17.66.U                U19.4.U
+   
+*SIG SWD_IO
+U19.1.U                 U17.65.U                J95.5.U
+   
+*SIG VAP
+R109.1.U                C108.1.U                J49.1.U                 C107.1.U
+U1.23.U
+   
+*SIG VAP_IN
+R102.1.U                J99.3.U
+   
+*SIG VBP
+R115.1.U                C110.1.U                C109.1.U                J54.1.U
+U1.22.U
+   
+*SIG VBP_IN
+R112.1.U                J99.2.U
+   
+*SIG VCP
+R100.1.U                C68.1.U                 C87.1.U                 J68.1.U
+U1.19.U
+   
+*SIG VCP_IN
+R77.1.U                 J99.1.U
+   
+*SIG VDDA
+J90.9.S                 J85.9.S                 U17.31.U
+   
+*SIG VDD_FT232
+U20.4.U                 U21.8.U                 R91.1.U                 D9.2.U
+U20.17.U                D8.2.U                  C90.1.U                 R94.1.U
+C86.1.U
+   
+*SIG VN
+U1.18.U                 J37.1.U                 C93.1.U                 C94.1.U
+R9.2.U
+   
+*SIG VN_IN
+R101.1.U                J99.4.U
+   
+*SIG VREF
+J90.8.S                 J85.8.S                 C105.2.U
+   
+*SIG VREFH
+J90.6.S                 J85.6.S                 C103.1.U
+   
+*SIG VREFL
+J90.7.S                 J85.7.S                 C104.2.U
+   
+*SIG VSSA
+J90.1.S                 J85.1.S                 U17.32.U
+   
+*SIG $$$1
+J7.1.U                  K1.1.U
+   
+*SIG $$$2
+C98.1.U                 C97.1.U                 L13.2.U                 J93.5.U
+   
+*SIG $$$3
+J7.2.U                  K1.3.U
+   
+*SIG $$$4
+J7.3.U                  K1.4.U
+   
+*SIG $$$5
+K1.2.U                  D12.2.U                 Q1.C.U
+   
+*SIG $$$6
+R3.2.U                  Q1.B.U
+   
+*SIG $$$7
+R3.1.U                  U17.50.U
+   
+*SIG $$$8
+R105.2.U                L14.1.U
+   
+*SIG $$$9
+R9.1.U                  R90.2.U                 L14.2.U
