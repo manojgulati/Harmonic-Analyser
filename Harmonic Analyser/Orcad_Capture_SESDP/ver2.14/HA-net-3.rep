@@ -1,0 +1,46 @@
+   
+NET LIST REPORT -- HARMONICS ANALYSER-A.pcb -- Mon Feb 09 10:19:44 2015
+   
+   
+*SIG +3.3V
+C101.1.U                C102.1.U                U17.10.U                C52.1.U
+C73.1.U                 J81.1.U                 C74.1.U                 J83.1.U
+C77.1.U                 C78.1.U                 C79.1.U                 C85.1.U
+R85.1.U                 R92.1.U                 C89.1.U                 R89.2.U
+C96.2.U                 U17.62.U                C99.1.U                 D1.1.U
+D4.2.U                  D2.2.U                  J17.3.U                 D3.2.U
+D5.2.U                  D6.2.U                  J14.10.S               
+J25.1.U                 R12.1.U                 J95.2.U                 U17.61.U
+L13.1.U                 LCD1.14.U               LCD1.28.U               U13.8.U
+R13.1.U                             U12.2.U                 R15.1.U
+R23.1.U                 R25.2.U                                  R93.1.U
+U1.5.U                  U19.8.U                 U23.8.U
+   
+
+   
+*SIG AGND
+C107.2.U                C108.2.U                C109.2.U                C110.2.U
+C87.2.U                 C55.2.U                 C53.2.U                 C56.1.U
+C54.1.U                 R113.1.U                C69.2.U                 C60.2.U
+C58.2.U                 C61.1.U                 C59.1.U                 R58.2.U
+R59.1.U                 C70.1.U                 C64.2.U                 R71.1.U
+C65.1.U                 C66.2.U                 C67.1.U                 R78.1.U
+C68.2.U                 R79.2.U                 C72.1.U                 C71.2.U
+R80.1.U                 C75.2.U                 C76.2.U                 L17.1.U
+C81.2.U                 TP8.1.U                 C83.2.U                 C93.2.U
+C94.2.U                 R90.1.U                 R107.1.U                R51.2.U
+R52.1.U                 R70.2.U                 SW1.2.U                 TP10.1.U
+TP6.1.U                 TP7.1.U                 TP9.1.U                 U1.25.U
+SW1.1.U
+   
+
+ 
+*SIG N2635561
+R100.2.U                R78.2.U                 L10.2.U
+
+
+   
+*SIG VREFL
+J90.7.S                 J85.7.S                 C104.2.U
+   
+

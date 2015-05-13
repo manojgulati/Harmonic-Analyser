@@ -1,0 +1,246 @@
+*PADS-PCB*
+*PART*
+BT3              CR2450
+C100             0603
+C101             0805
+C102             0603
+C103             0603
+C104             0603
+C105             0603
+C106             0603
+C107             0805
+C108             0805
+C109             0805
+C110             0805
+C14              0603
+C15              0603
+C16              0603
+C17              0603
+C18              0603
+C19              0603
+C20              0603
+C21              0603
+C22              0603
+C29              0805
+C30              0805
+C52              0805
+C53              220pF
+C54              220pF
+C55              0805
+C56              0805
+C58              220pF
+C59              220pF
+C60              220pF
+C61              220pF
+C64              0805
+C65              0805
+C66              0805
+C67              0805
+C68              0805
+C69              0805
+C70              0805
+C71              0805
+C72              0805
+C73              0805
+C74              0805
+C75              0805
+C76              0805
+C77              0805
+C78              0805
+C79              0603
+C80              0603
+C81              0805
+C83              0805
+C85              0805
+C86              0805
+C87              0805
+C88              0603
+C89              0603
+C90              0603
+C91              0603
+C92              0805
+C93              0805
+C94              0805
+C95              0603
+C96              0805
+C97              0805
+C98              0603
+C99              0805
+D1               0805
+D10              LED
+D11              LED
+D12              DO-41
+D2               0805
+D3               0805
+D4               0805
+D5               0805
+D6               0805
+D7               LED
+D8               0805
+D9               0805
+J1               box conn
+J100             CF1
+J101             HEADER 1
+J13              PDCJ01-01
+J14              10 PIN BOX_HEADER-1
+J17              SIL_HEADER
+J2               jumper3-pin
+J22              BOX_CONNECTOR
+J25              HEADER 1
+J26              PHOENIX(5MM)
+J3               CF2
+J33              INN
+J34              INP
+J37              VN
+J4               CF3
+J42              IAN
+J43              IAP
+J44              PHOENIX(5MM)
+J49              VAP
+J5               10 PIN BOX_HEADER-2
+J54              VBP
+J61              IBN
+J62              IBP
+J63              PHOENIX(5MM)
+J68              VCP
+J75              ICN
+J76              ICP
+J77              PHOENIX(5MM)
+J78              PM0
+J79              PM1
+J81              VDD
+J82              AVDD
+J83              DVDD
+J85              SIL header
+J89              ~IRQ1
+J90              SIL Header
+J91              Type-A USB-female conn
+J92              PHOENIX(5MM)
+J93              SIl header
+J94              Type-A USB-female conn
+J95              DUAL INLINE 6PIN
+J96              ~IRQ0
+J97              PHOENIX(5MM)
+J98              REFIN
+J99              PHOENIX(5MM)
+L1               0805
+L10              0805
+L11              0805
+L12              0805
+L13              0603
+L14              0805
+L15              0805
+L16              0805
+L17              0805
+L2               0805
+L4               0805
+L5               0805
+L8               0805
+L9               0805
+LCD1             same as in EDS
+LS1              RELAY SPDT
+Q1               BC547
+R1               0603
+R100             0805
+R101             1206
+R102             1206
+R103             1206
+R105             1206
+R106             1206
+R107             0805
+R108             1206
+R109             0805
+R110             1206
+R111             1206
+R112             1206
+R113             0805
+R114             1206
+R115             0805
+R116             1206
+R117             1206
+R12              0603
+R13              0603
+R14              1206
+R15              0603
+R16              0603
+R2               0805
+R23              0603
+R25              0603
+R26              0603
+R27              0603
+R3               0603
+R4               0603
+R5               0603
+R50              680
+R51              TBD1206
+R52              TBD1206
+R53              0805
+R54              0805
+R55              0805
+R56              0805
+R58              TBD1206
+R59              TBD1206
+R6               0603
+R60              0805
+R61              0805
+R62              0805
+R63              0805
+R7               0603
+R70              TBD1206
+R71              TBD1206
+R72              0805
+R73              0805
+R74              0805
+R75              0805
+R76              1206
+R77              1206
+R78              0805
+R79              TBD1206
+R8               0603
+R80              TBD1206
+R81              0805
+R82              0805
+R83              0805
+R84              0805
+R85              0805
+R86              0603
+R87              0603
+R88              0603
+R89              0805
+R9               0805
+R90              0805
+R91              0603
+R92              0603
+R93              0603
+R94              0603
+R95              680
+R96              680
+R97              680
+R98              1206
+R99              1206
+SW1              SW_TC_SPST
+TP1              DGND
+TP10             AGND
+TP2              DGND
+TP3              DGND
+TP4              DGND
+TP5              DGND
+TP6              AGND
+TP7              AGND
+TP8              AGND
+TP9              AGND
+TS               SW PUSHBUTTON
+TS2              SW PUSHBUTTON
+TS3              SW PUSHBUTTON
+TS4              SW PUSHBUTTON
+TS5              SW PUSHBUTTON
+U1               CP_40_10
+U12              SOT223
+U13              SOIC-8
+U17              100 LQFP
+U19              S08
+U20              SSOP28
+U21              DIP 8
+U23              DIP 8
+Y1               16.384MHz
+Y2               CRYSTAL
