@@ -133,7 +133,10 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Outputs"))
+      (Path "Design Resources" ".\design2.dsn")
+      (Path "Design Resources" ".\design2.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\design2.dsn" "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -144,7 +147,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 52 1210 52 476")
-        (Scroll "0 1457")
+        (Scroll "0 1733")
         (Zoom "116")
         (Occurrence "/"))
       (Path
