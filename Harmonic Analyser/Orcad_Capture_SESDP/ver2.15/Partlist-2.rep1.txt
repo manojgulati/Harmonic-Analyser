@@ -1,0 +1,81 @@
+   
+PARTS LIST 1 REPORT -- HARMONICS ANALYSER-A.pcb -- Thu May 14 19:19:49 2015
+   
+   
+Reference Designation   Logic Type             PartType
+--------------------------------------------------------------------------------   
+   
+   D12                     DIO                 DIODE\DO41-MMELF
+   
+   
+   
+   J2                      RES                 SIP-3P
+   
+  
+   
+   J5                      RES                 SIP-11P
+   
+   J7                      CON                 CON\PHOENIX3X7.5   PHOENIX(5MM) PBT Connector http://rarecomponents.com/store/image/cache/data/Terminal%20Block%202Pin-500x500.jpg
+
+   
+   J13                     UND                 DCPWRJACK                          DCJ01-01 [2.5 mm]
+   
+   J14                     CON                 SIP\100\10P
+   
+   J17                     RES                 SIP-3P
+   
+  
+   
+   J26                     UND                 CON\PHOENIX2X7.5    PHOENIX PBT Connector http://rarecomponents.com/store/image/cache/data/Terminal%20Block%202Pin-500x500.jpg
+   
+   
+   J44                     UND                 CON\PHOENIX2X7.5   PHOENIX PBT Connector http://rarecomponents.com/store/image/cache/data/Terminal%20Block%202Pin-500x500.jpg
+  
+   J63                     UND                 CON\PHOENIX2X7.5   PHOENIX PBT Connector http://rarecomponents.com/store/image/cache/data/Terminal%20Block%202Pin-500x500.jpg
+   
+   J77                     UND                 CON\PHOENIX2X7.5 PHOENIX PBT Connector http://rarecomponents.com/store/image/cache/data/Terminal%20Block%202Pin-500x500.jpg
+  
+   J85                     CON                 SIP\100\9P    SIGMA DELTA 0,1 SIL HEADER
+   
+  
+   J90                     CON                 SIP\100\9P  SIGMA DELTA 2,3 SIL HEADER
+   
+   J91                     UND                 USB\TYPEA\RA   [Type A USB Connector]
+   
+   J92                     CON                 CON\PHOENIX3X7.5 PHOENIX PBT Connector http://rarecomponents.com/store/image/cache/data/Terminal%20Block%202Pin-500x500.jpg
+   
+   J93                     RES                 SIP-5P (PITCH 2.54 MM)
+   
+   J94                     RES                 SIP-4P (PITCH 2.54 MM)
+   
+   J95                     UND                 HEADER6 (2X3)(PITCH 2.54 MM)
+   
+   J99                     CON                 CON\PHOENIX4X7.5 PHOENIX PBT Connector http://rarecomponents.com/store/image/cache/data/Terminal%20Block%202Pin-500x500.jpg
+   
+   K1                      RLY                 REL\OMRON\G5LE-1\SPDT    Five point Relay
+   
+   LCD1                    UND                 LCD\TM12864        [Doubtful though pins look similar as in layout]
+   
+   Q1                      TRX                 BC547                    TO-92
+   
+   U1                      QFP                 ADE7880        ADE7880ACPZ
+   
+   U12                     UND                 SOT223         LM1117 SOT223
+   
+   U13                     UND                 SO8(SOIC8)     WINBOND SPI Flash W25Q64FV
+   
+   U17                     QFP                 QFP50P1600X1600X145-100N    [Freescale mkm34z128cll5]
+   
+   U19                     UND                 SOIC\8          MAX-485S08
+   
+   U20                     SOP                 FT232R 28SSOP   FT232RL(DEBUG)SSOP28
+   
+   U21                     DIP                 DIP8           Stretched SO-8 and 400 mil widebody         
+   
+   U23                     DIP                 DIP8           Stretched SO-8 and 400 mil widebody
+   
+   Y1                      XTL                 XTAL5          16.384 MHz [Doubtful may be HC-49S]  (11.5 x 5.0 x 3.5 mm)  
+   
+   Y2                      XTL                 XTAL5          36.768 kHz [Doubtful may be 6.2 x 02.1MM CYLINDER PACKAGE]
+   
+

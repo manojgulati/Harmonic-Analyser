@@ -1,0 +1,508 @@
+   
+PARTS LIST 1 REPORT -- HARMONICS ANALYSER-A.pcb -- Thu May 14 19:19:49 2015
+   
+   
+Reference Designation   Logic Type             PartType
+--------------------------------------------------------------------------------
+   
+   BT3                     UND                 CR2450
+   
+   C14                     UND                 0603
+   
+   C15                     UND                 0603
+   
+   C16                     UND                 0603
+   
+   C17                     UND                 0603
+   
+   C18                     UND                 0603
+   
+   C19                     UND                 0603
+   
+   C20                     UND                 0603
+   
+   C21                     UND                 0603
+   
+   C22                     UND                 0603
+   
+   C29                     GEN                 0805
+   
+   C30                     GEN                 0805
+   
+   C52                     GEN                 0805
+   
+   C53                     GEN                 0805
+   
+   C54                     GEN                 0805
+   
+   C55                     GEN                 0805
+   
+   C56                     GEN                 0805
+   
+   C58                     GEN                 0805
+   
+   C59                     GEN                 0805
+   
+   C60                     GEN                 0805
+   
+   C61                     GEN                 0805
+   
+   C64                     GEN                 0805
+   
+   C65                     GEN                 0805
+   
+   C66                     GEN                 0805
+   
+   C67                     GEN                 0805
+   
+   C68                     GEN                 0805
+   
+   C69                     GEN                 0805
+   
+   C70                     GEN                 0805
+   
+   C71                     GEN                 0805
+   
+   C72                     GEN                 0805
+   
+   C73                     GEN                 0805
+   
+   C74                     GEN                 0805
+   
+   C75                     GEN                 0805
+   
+   C76                     GEN                 0805
+   
+   C77                     GEN                 0805
+   
+   C78                     GEN                 0805
+   
+   C79                     UND                 0603
+   
+   C80                     UND                 0603
+   
+   C81                     GEN                 0805
+   
+   C83                     GEN                 0805
+   
+   C85                     GEN                 0805
+   
+   C86                     GEN                 0805
+   
+   C87                     GEN                 0805
+   
+   C88                     UND                 0603
+   
+   C89                     UND                 0603
+   
+   C90                     UND                 0603
+   
+   C91                     UND                 0603
+   
+   C92                     GEN                 0805
+   
+   C93                     GEN                 0805
+   
+   C94                     GEN                 0805
+   
+   C95                     UND                 0603
+   
+   C96                     GEN                 0805
+   
+   C97                     GEN                 0805
+   
+   C98                     UND                 0603
+   
+   C99                     GEN                 0805
+   
+   C100                    UND                 0603
+   
+   C101                    GEN                 0805
+   
+   C102                    UND                 0603
+   
+   C103                    UND                 0603
+   
+   C104                    UND                 0603
+   
+   C105                    UND                 0603
+   
+   C106                    UND                 0603
+   
+   C107                    GEN                 0805
+   
+   C108                    GEN                 0805
+   
+   C109                    GEN                 0805
+   
+   C110                    GEN                 0805
+   
+   D1                      GEN                 0805
+   
+   D2                      GEN                 0805
+   
+   D3                      GEN                 0805
+   
+   D4                      GEN                 0805
+   
+   D5                      GEN                 0805
+   
+   D6                      GEN                 0805
+   
+   D7                      GEN                 0805
+   
+   D8                      GEN                 0805
+   
+   D9                      GEN                 0805
+   
+   D10                     GEN                 0805
+   
+   D11                     GEN                 0805
+   
+   D12                     DIO                 DIODE\DO41-MMELF
+   
+   J1                      UND                 TP1
+   
+   J2                      RES                 SIP-3P
+   
+   J3                      UND                 TP1
+   
+   J4                      UND                 TP1
+   
+   J5                      RES                 SIP-11P
+   
+   J7                      CON                 CON\PHOENIX3X7.5
+   
+   J13                     UND                 DCPWRJACK
+   
+   J14                     CON                 SIP\100\10P
+   
+   J17                     RES                 SIP-3P
+   
+   J25                     UND                 TP1
+   
+   J26                     UND                 CON\PHOENIX2X7.5
+   
+   J33                     UND                 TP1
+   
+   J34                     UND                 TP1
+   
+   J37                     UND                 TP1
+   
+   J42                     UND                 TP1
+   
+   J43                     UND                 TP1
+   
+   J44                     UND                 CON\PHOENIX2X7.5
+   
+   J49                     UND                 TP1
+   
+   J54                     UND                 TP1
+   
+   J61                     UND                 TP1
+   
+   J62                     UND                 TP1
+   
+   J63                     UND                 CON\PHOENIX2X7.5
+   
+   J68                     UND                 TP1
+   
+   J75                     UND                 TP1
+   
+   J76                     UND                 TP1
+   
+   J77                     UND                 CON\PHOENIX2X7.5
+   
+   J78                     UND                 TP1
+   
+   J79                     UND                 TP1
+   
+   J81                     UND                 TP1
+   
+   J82                     UND                 TP1
+   
+   J83                     UND                 TP1
+   
+   J85                     CON                 SIP\100\9P
+   
+   J89                     UND                 TP1
+   
+   J90                     CON                 SIP\100\9P
+   
+   J91                     UND                 USB\TYPEA\RA
+   
+   J92                     CON                 CON\PHOENIX3X7.5
+   
+   J93                     RES                 SIP-5P
+   
+   J94                     RES                 SIP-4P
+   
+   J95                     UND                 HEADER6
+   
+   J96                     UND                 TP1
+   
+   J98                     UND                 TP1
+   
+   J99                     CON                 CON\PHOENIX4X7.5
+   
+   K1                      RLY                 REL\OMRON\G5LE-1\SPDT
+   
+   L1                      GEN                 0805
+   
+   L2                      GEN                 0805
+   
+   L4                      GEN                 0805
+   
+   L5                      GEN                 0805
+   
+   L8                      GEN                 0805
+   
+   L9                      GEN                 0805
+   
+   L10                     GEN                 0805
+   
+   L11                     GEN                 0805
+   
+   L12                     GEN                 0805
+   
+   L13                     UND                 0603
+   
+   L14                     GEN                 0805
+   
+   L15                     GEN                 0805
+   
+   L16                     GEN                 0805
+   
+   L17                     GEN                 0805
+   
+   LCD1                    UND                 LCD\TM12864
+   
+   Q1                      TRX                 BC547
+   
+   R1                      UND                 0603
+   
+   R2                      GEN                 0805
+   
+   R3                      UND                 0603
+   
+   R4                      UND                 0603
+   
+   R5                      UND                 0603
+   
+   R6                      UND                 0603
+   
+   R7                      UND                 0603
+   
+   R8                      UND                 0603
+   
+   R9                      GEN                 0805
+   
+   R12                     UND                 0603
+   
+   R13                     UND                 0603
+   
+   R14                     UND                 1206
+   
+   R15                     UND                 0603
+   
+   R16                     UND                 0603
+   
+   R23                     UND                 0603
+   
+   R25                     UND                 0603
+   
+   R26                     UND                 0603
+   
+   R27                     UND                 0603
+   
+   R50                     GEN                 0805
+   
+   R51                     UND                 1206
+   
+   R52                     UND                 1206
+   
+   R53                     GEN                 0805
+   
+   R54                     GEN                 0805
+   
+   R55                     GEN                 0805
+   
+   R56                     GEN                 0805
+   
+   R58                     UND                 1206
+   
+   R59                     UND                 1206
+   
+   R60                     GEN                 0805
+   
+   R61                     GEN                 0805
+   
+   R62                     GEN                 0805
+   
+   R63                     GEN                 0805
+   
+   R70                     UND                 1206
+   
+   R71                     UND                 1206
+   
+   R72                     GEN                 0805
+   
+   R73                     GEN                 0805
+   
+   R74                     GEN                 0805
+   
+   R75                     GEN                 0805
+   
+   R76                     UND                 1206
+   
+   R77                     UND                 1206
+   
+   R78                     GEN                 0805
+   
+   R79                     UND                 1206
+   
+   R80                     UND                 1206
+   
+   R81                     GEN                 0805
+   
+   R82                     GEN                 0805
+   
+   R83                     GEN                 0805
+   
+   R84                     GEN                 0805
+   
+   R85                     GEN                 0805
+   
+   R86                     UND                 0603
+   
+   R87                     UND                 0603
+   
+   R88                     UND                 0603
+   
+   R89                     GEN                 0805
+   
+   R90                     GEN                 0805
+   
+   R91                     UND                 0603
+   
+   R92                     UND                 0603
+   
+   R93                     UND                 0603
+   
+   R94                     UND                 0603
+   
+   R95                     GEN                 0805
+   
+   R96                     GEN                 0805
+   
+   R97                     GEN                 0805
+   
+   R98                     UND                 1206
+   
+   R99                     UND                 1206
+   
+   R100                    GEN                 0805
+   
+   R101                    UND                 1206
+   
+   R102                    UND                 1206
+   
+   R103                    UND                 1206
+   
+   R105                    UND                 1206
+   
+   R106                    UND                 1206
+   
+   R107                    GEN                 0805
+   
+   R108                    UND                 1206
+   
+   R109                    GEN                 0805
+   
+   R110                    UND                 1206
+   
+   R111                    UND                 1206
+   
+   R112                    UND                 1206
+   
+   R113                    GEN                 0805
+   
+   R114                    UND                 1206
+   
+   R115                    GEN                 0805
+   
+   R116                    UND                 1206
+   
+   R117                    UND                 1206
+   
+   SW1                     SWI                 SW-B3F
+   
+   TP1                     UND                 TP1
+   
+   TP2                     UND                 TP1
+   
+   TP3                     UND                 TP1
+   
+   TP4                     UND                 TP1
+   
+   TP5                     UND                 TP1
+   
+   TP6                     UND                 TP1
+   
+   TP7                     UND                 TP1
+   
+   TP8                     UND                 TP1
+   
+   TP9                     UND                 TP1
+   
+   TP10                    UND                 TP1
+   
+   TP11                    UND                 TP1
+   
+   TP12                    UND                 TP1
+   
+   TP13                    UND                 TP1
+   
+   TP14                    UND                 TP1
+   
+   TP15                    UND                 TP1
+   
+   TS                      SWI                 SW-B3F
+   
+   TS2                     SWI                 SW-B3F
+   
+   TS3                     SWI                 SW-B3F
+   
+   TS4                     SWI                 SW-B3F
+   
+   TS5                     SWI                 SW-B3F
+   
+   U1                      QFP                 ADE7880
+   
+   U12                     UND                 SOT223
+   
+   U13                     UND                 SO8
+   
+   U17                     QFP                 QFP50P1600X1600X145-100N
+   
+   U19                     UND                 SOIC\8
+   
+   U20                     SOP                 FT232R
+   
+   U21                     DIP                 DIP8
+   
+   U23                     DIP                 DIP8
+   
+   X1                      HOL                 MTHOLE2
+   
+   X2                      HOL                 MTHOLE2
+   
+   X3                      HOL                 MTHOLE2
+   
+   X4                      HOL                 MTHOLE2
+   
+   Y1                      XTL                 XTAL5
+   
+   Y2                      XTL                 XTAL5
+   
+
